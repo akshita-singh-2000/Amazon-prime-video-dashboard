@@ -8,4 +8,5 @@ It helps users stay up-to-date with the latest and most popular content on Prime
 By providing information on the top movies/series that users can watch, users can easily access popular content without having to manually search for it. 
 You can analyze the IMDb Rating of the shows to identify the most popular movies and series on the platform that you can watch. 
 
+
 <img width="677" alt="image" src="https://user-images.githubusercontent.com/60089914/222557223-cd013147-9cc7-4269-93de-48ddf9ac7c27.png">
